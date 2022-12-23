@@ -1,0 +1,65 @@
+body{
+   min-height: 460px;
+}
+
+nav{
+   padding-top: 35px;
+   width: 100%;
+   min-height: 75px;
+   text-align: center;
+   background-color: rgba(255, 255, 255, 0.5);
+  
+}
+
+nav a{
+   font-family: arial;
+   padding: 5px;
+   color: red;
+}
+
+h1{
+    
+   color: red;
+   text-align: center;
+   font-size: 124px;
+   font-family: SF Sports Night Alternate Regular;
+}
+
+h2{
+   color:red;
+
+}
+
+
+.o-list{
+   width: 50%;
+   margin-right: auto;
+   margin-left:auto;
+
+
+}
+
+.u-list{
+   width: 50%;
+   margin-right: auto;
+   margin-left:auto;
+
+}
+
+ul{
+   list-style: circle;
+
+}
+
+ol{
+   list-style: circle;
+
+}
+
+footer{
+   
+   min-height: 200px;
+   text-align: center;
+   background-color: grey;
+   color: white;
+}

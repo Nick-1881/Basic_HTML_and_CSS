@@ -1,0 +1,72 @@
+/*Body and nav selectors are global for html-4 and html-5*/
+
+body{
+	
+   overflow-x: hidden;
+}
+
+nav{
+   padding-top: 35px;
+   width: 100%;
+   min-height: 75px;
+   text-align: center;
+   background-color: rgba(255, 255, 255, 0.5);
+  
+}
+
+nav a{
+   font-family: arial;
+   padding: 5px;
+   color: red;
+}
+
+h1{
+    
+   color: red;
+   text-align: center;
+   font-size: 124px;
+   font-family: SF Sports Night Alternate Regular;
+}
+
+
+
+.intro{
+   height: 360px;
+   margin: auto;
+   text-shadow: black;
+   background-color: ;
+   color: black;
+   text-align: center;
+   font-size: 18px;
+   font-family: arial;
+}
+
+/*Code below styles elements for html_4 file*/
+
+.paragraphs{
+   min-height: 360px;
+}
+.par1{
+   color: black;
+   width: 100%;
+   text-align: center;
+   font-family: arial;
+   font-size: 18px;
+}
+
+.par2{
+   color: red;
+   width: 100%;
+   text-align: center;
+   font-family: arial;
+   font-size: 18px;
+}
+
+
+
+footer{
+   min-height: 200px;
+   text-align: center;
+   background-color: grey;
+   color: white;
+}
